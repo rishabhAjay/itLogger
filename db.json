@@ -1,0 +1,30 @@
+{
+  "logs": [
+    {
+      "id": 3,
+      "message": "ghjjgjghkgh",
+      "attention": false,
+      "tech": "Rishabh Ajay",
+      "date": "2021-09-06T18:20:53.838Z"
+    },
+    {
+      "id": 4,
+      "message": "Changed RAM in workstation 111",
+      "attention": false,
+      "tech": "John Smith",
+      "date": "2021-09-06T18:25:00.988Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Rishabh",
+      "lastName": "Ajay",
+      "id": 1
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "id": 2
+    }
+  ]
+}
